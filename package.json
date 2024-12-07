@@ -1,0 +1,16 @@
+{
+	"displayName": "Sequencer",
+	"name": "com.xorfe.sequencer",
+	"version": "0.1.0",
+	"description": "Repository description",
+	"keywords": ["unity", "sequencer"],
+	"category": "sequencer",
+	"author": {
+		"name": "batuhan ozan kaplan",
+		"email": "batuhanozankaplan@protonmail.com"
+	},
+	"dependencies": {
+	},
+	"scopedRegistries": [
+	]
+}
